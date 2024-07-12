@@ -1,0 +1,6 @@
+dependencies:
+- name: web-application
+  repository: https://int.repositories.cloud.sap/artifactory/virtual-unified-runtime-helm-dmz
+  version: 1.15.1
+digest: sha256:1ac1a13c258a35a2e7d0c3729f8d3478bf539765dd9e9e5716604ef07d2584e7
+generated: "2024-06-20T15:28:00.1211806+05:30"
